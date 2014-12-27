@@ -1,2 +1,2 @@
-add_lunch_combo cm_jflte-eng
-add_lunch_combo cm_jflte-userdebug
+add_lunch_combo omni_jflte-eng
+add_lunch_combo omni_jflte-userdebug
